@@ -22,6 +22,3 @@ Azure SQL Database is useful when the application needs relational tables, joins
 
 Azure Blob Storage can store JSON files, but it is not ideal as a database. It is better for storing files such as images, logs, documents, or backups. Querying history records would be harder compared to Cosmos DB.
 
-## Cost Considerations
-
-Cosmos DB is suitable for a student lab because it supports development and small workloads. Azure Cosmos DB has free-tier options, and Microsoft documentation says the free tier can include 1000 RU/s and 25 GB of storage when enabled on an account. For this lab, the workload is very small because only simple text analysis records are stored.
