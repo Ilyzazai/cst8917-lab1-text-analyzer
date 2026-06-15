@@ -11,14 +11,6 @@
 
 ---
 
----
-
-## Demo Video
-
-https://www.youtube.com/watch?v=goEXbON81lo
-
----
-
 ## Project Overview
 
 This lab demonstrates a serverless text analysis application built with Azure Functions and Python.
